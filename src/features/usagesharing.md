@@ -16,7 +16,7 @@ deemed reliable enough to contribute to the data file.
 
 **Usage sharing** is enabled by default if you are using a pipeline builder that is derived from a 51Degrees pipeline builder (for example, DeviceDetetctionPipelineBuilder or FiftyOnePipelineBuilder). To configure the **usage sharing** feature, please refer to our @ref Examples_UsageSharing.
 
-To enable **usage sharing** for low-level APIs such as C, Nginx, and Varnish, please refer to the [Usage Sharing for low-level APIs section](@ref Low_Level_Usage_Sharing) further down this page.
+To enable **usage sharing** for low-level APIs such as C, Nginx, and Varnish, please refer to the [Usage Sharing for low-level APIs section](@ref Low_Level_Usage_Sharing) further down this page. 
 
 Please refer to the @ref Examples_UsageSharing section to check if **user sharing** is implemented for a particular language or API. To request an additional implementation of this feature, please [get in touch](https://51degrees.com/contact-us).
 
